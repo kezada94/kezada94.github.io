@@ -378,3 +378,13 @@ a:focus, a:hover, a:active {
   background-color: #1a252f;
   border-color: #1a252f;
 }
+
+#floating {
+  position:fixed; 
+  top: 0%;
+  left: 0%;
+  background: #0099ff;
+  height: 100vh;
+  width: 30vw;
+}
+
